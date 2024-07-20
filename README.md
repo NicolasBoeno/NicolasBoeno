@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Nicolas 🖐️
 <br>
 
-![Nicolas Boeno Github stats](https://github-readme-stats.vercel.app/api?username=NicolasBoeno&show_icons=true&theme=tokyonight&locale=pt-br)
+![Nicolas Boeno Github stats](https://github-readme-stats.vercel.app/api?username=nicolasboeno&show_icons=true&theme=tokyonight&locale=pt-br)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasboeno&show_icons=true&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 

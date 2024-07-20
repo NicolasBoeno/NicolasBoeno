@@ -1,6 +1,9 @@
 ### Olá, Eu sou o Nicolas 🖐️
+<br>
 
 ![Nicolas Boeno Github stats](https://github-readme-stats.vercel.app/api?username=NicolasBoeno&show_icons=true&theme=tokyonight&locale=pt-br)
+
+<br>
 
 ### Tecnologias
 
